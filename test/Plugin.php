@@ -7,11 +7,11 @@
  * distributed with this package.
  */
 
-class Eve_L10n_Plugin extends PHPUnit_Framework_TestCase
+class Eve_Plugin_L10n_Setup extends PHPUnit_Framework_TestCase
 {
     public function testImport()
     {
-        $callback = Eve\L10n\Plugin::i()->import();
+        $callback = Eve\Plugin\L10n\Setup::i()->import();
 		
 		$this->assertTrue(is_callable($callback));
 	}

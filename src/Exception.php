@@ -7,7 +7,7 @@
  * distributed with this package.
  */
 
-namespace Eve\L10n;
+namespace Eve\Plugin\L10n;
 
 /**
  * Exception Class

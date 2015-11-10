@@ -1,8 +1,8 @@
-![logo](http://eden.openovate.com/assets/images/cloud-social.png) Eve l10n
+![logo](http://eden.openovate.com/assets/images/cloud-social.png) Eve l10n Plugin
 ====
 Localization and Internationalization for the Eve Framework
 ====
-[![Build Status](https://api.travis-ci.org/eve-php/csrf.png)](https://travis-ci.org/eve-php/l10n)
+[![Build Status](https://api.travis-ci.org/eve-php/eve-plugin-l10n.png)](https://travis-ci.org/eve-php/eve-plugin-l10n)
 ====
 
 - [Install](#install)
@@ -13,7 +13,7 @@ Localization and Internationalization for the Eve Framework
 <a name="install"></a>
 ## Install
 
-`composer install eve-php/l10n`
+`composer install eve-php/eve-plugin-l10n`
 
 ====
 
@@ -24,7 +24,7 @@ Localization and Internationalization for the Eve Framework
 
 ```
 //l10n
-->add(Eve\L10n\Plugin::i()->import(array(
+->add(Eve\Plugin\L10n\Setup::i()->import(array(
 	//Default
 	'default' => array(
 		'name' => 'Website',

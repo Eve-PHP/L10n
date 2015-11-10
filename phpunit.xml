@@ -12,7 +12,7 @@
          bootstrap="test/bootstrap.php"
 >
   <testsuites>
-    <testsuite name="Eve CSRF Plugin Test Suite">
+    <testsuite name="Eve l10n Plugin Test Suite">
       <file>test/Plugin.php</file>
     </testsuite>
   </testsuites>
