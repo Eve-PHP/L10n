@@ -2,7 +2,7 @@
 ====
 Localization and Internationalization for the Eve Framework
 ====
-[![Build Status](https://api.travis-ci.org/eve-php/eve-plugin-l10n.png)](https://travis-ci.org/eve-php/eve-plugin-l10n)
+[![Build Status](https://api.travis-ci.org/eve-php/eve-plugin-l10n.png)](https://travis-ci.org/eve-php/eve-plugin-l10n) [![Latest Stable Version](https://poser.pugx.org/eve-php/eve-plugin-l10n/v/stable)](https://packagist.org/packages/eve-php/eve-plugin-l10n) [![Total Downloads](https://poser.pugx.org/eve-php/eve-plugin-l10n/downloads)](https://packagist.org/packages/eve-php/eve-plugin-l10n) [![Latest Unstable Version](https://poser.pugx.org/eve-php/eve-plugin-l10n/v/unstable)](https://packagist.org/packages/eve-php/eve-plugin-l10n) [![License](https://poser.pugx.org/eve-php/eve-plugin-l10n/license)](https://packagist.org/packages/eve-php/eve-plugin-l10n)
 ====
 
 - [Install](#install)
