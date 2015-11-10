@@ -1,8 +1,8 @@
 {
-    "name": "eve-php/l10n",
+    "name": "eve-php/eve-plugin-l10n",
     "type": "plugin",
     "description": "Localization Plugin for the Eve Framework",
-    "keywords": ["eden", "library"],
+    "keywords": ["eve", "plugin"],
     "homepage": "http://eve.openovate.com",
     "license": "MIT",
     "authors": [
@@ -16,6 +16,6 @@
 		"eden/registry": "4.*"
     },
     "autoload": {
-         "psr-4": { "Eve\\L10n\\": "src/" }
+         "psr-4": { "Eve\\Plugin\\L10n\\": "src/" }
     }
 }
